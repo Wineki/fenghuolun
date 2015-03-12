@@ -1,0 +1,112 @@
+{
+    "name": "test",
+    "generator": "",
+    "bgColor": "#ffffff",
+    "pagePosition": "auto",
+    "pageAnimation": "flow",
+    "loop": false,
+    "designSolutionWidth": 640,
+    "designSolutionHeight": 1008,
+    "buttonColor": "rgba(255, 255, 255, 0.9)",
+    "bgm": {
+        "url": "",
+        "autoPlay": false,
+        "loop": false
+    },
+    "weixin": {
+        "appId": "",
+        "imgUrl": "http://p0.qhimg.com/t0110bed7db8f90d7d6.png",
+        "link": "123",
+        "title": "234",
+        "desc": "456"
+    },
+    "loadingView": {
+        "bgColor": "#ffffff",
+        "circelColor": "rgba(255, 255, 255, 0.3)",
+        "borderColor": "rgba(136, 136, 136, 0.8)",
+        "spinnerColor": "#2297bc",
+        "textColor": "#333333"
+    },
+    "pages": [
+        {
+            "id": "pg28554421_160",
+            "bgImage": "http://p0.qhimg.com/t0188a43f24810e972d.png",
+            "bgColor": "#ffffff",
+            "bgColorLink": true,
+            "elements": [
+                {
+                    "id": "pe28554458_11",
+                    "name": "pe28554458_11",
+                    "type": "text",
+                    "text": "单行文字内容",
+                    "textSize": "24px",
+                    "textColor": "#000000",
+                    "textAutoAdjust": false,
+                    "textAlign": "left",
+                    "textUrl": "",
+                    "x": 0,
+                    "y": 0,
+                    "relativePosition": "elementWrap",
+                    "zIndex": 11,
+                    "align": "none",
+                    "width": 100,
+                    "height": 10
+                }
+            ]
+        },
+        {
+            "id": "pg28674537_202",
+            "bgImage": "http://p0.qhimg.com/t0145b43572e050d06a.png",
+            "bgColor": "#ffffff",
+            "bgColorLink": true,
+            "elements": [
+                {
+                    "id": "pe28674574_03",
+                    "name": "pe28674574_03",
+                    "type": "text",
+                    "text": "单行文字内容",
+                    "textSize": "24px",
+                    "textColor": "#000000",
+                    "textAutoAdjust": false,
+                    "textAlign": "left",
+                    "textUrl": "",
+                    "x": 0,
+                    "y": 0,
+                    "relativePosition": "elementWrap",
+                    "zIndex": 11,
+                    "align": "none",
+                    "width": 100,
+                    "height": 10
+                }
+            ]
+        },
+        {
+            "id": "pg28682273_484",
+            "bgImage": "http://p0.qhimg.com/t0144fe8dd649ac7112.png",
+            "bgColor": "#ffffff",
+            "bgColorLink": true,
+            "elements": [
+                {
+                    "id": "pe28682308_475",
+                    "name": "pe28682308_475",
+                    "type": "text",
+                    "text": "单行文字内容",
+                    "textSize": "24px",
+                    "textColor": "#000000",
+                    "textAutoAdjust": false,
+                    "textAlign": "left",
+                    "textUrl": "",
+                    "x": 0,
+                    "y": 0,
+                    "relativePosition": "elementWrap",
+                    "zIndex": 11,
+                    "align": "none",
+                    "width": 100,
+                    "height": 10
+                }
+            ]
+        }
+    ],
+    "extensionCss": "",
+    "extensionJs": ""
+}
